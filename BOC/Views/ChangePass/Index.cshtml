@@ -1,0 +1,141 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Layout4Boc.cshtml";
+}
+
+
+@using BOC.Models
+@using BOC.Controllers
+
+@model ChangePassModel
+
+
+
+<div class="">
+    <div class="page-title">
+        <div class="title_left">
+            <h3>Change<small> Password</small></h3>
+        </div>
+
+        <div class="title_right">
+            <div class="col-md-5 col-sm-5 col-xs-12 form-group pull-right top_search">
+               
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div class="row">
+
+        <div class="col-md-12 col-sm-12 ">
+            <div class="x_panel">
+                <div class="x_title">
+                    
+                    <div class="clearfix"></div>
+                    <div class="container" style="padding-top:60px;padding-left:20px;">
+                        <div class="table-wrapper">
+                            <form method="post" id="frmAccount" enctype="multipart/form-data" asp-controller="ChangePass" asp-action="Index">
+
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Old Password :</label>
+                                    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span> @Html.TextBoxFor(model => model.OldPass, new { id = "oldpass", placeholder = "Input Your Old Password", type = "password", style = "font-size:12px;width:250px" })</span>
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">New Password :</label>
+                                    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<span> @Html.TextBoxFor(model => model.NewPass, new { id = "newpass", placeholder = "Input Your New Password", type = "password", style = "font-size:12px;width:250px" })</span>
+                                </div>
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Confirm Password :</label>
+                                    &nbsp;&nbsp; <span> @Html.TextBoxFor(model => model.ConfirmPass, new { id = "confirmpass", placeholder = "Confirm Your Password", type = "password", style = "font-size:12px;width:250px" })</span>
+                                </div>
+                                <input type="submit" id="change" value="Change Password" class="btn btn-primary btn-block" style="width:150px;" />
+                                @Html.HiddenFor(model => model.OldPass)
+                                @Html.HiddenFor(model => model.NewPass)
+                                @Html.HiddenFor(model => model.ConfirmPass)
+
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- Editable table -->
+        </div>
+    </div>
+</div>
+
+<input type="hidden" id="error" value="@Model.ErrorMessage" />
+<input type="hidden" id="success" value="@Model.Success" />
+
+
+<script>
+    $(function () {
+                if ($("#success").val() == 0) {
+                    if ($("#error").val() !== "") {
+                        alertify.alert($("#error").val()).set({
+                            onshow: null, onclose: function () {
+                                window.location = "/Home/Index";
+                            }
+                        });;
+                    }
+                }
+                else {
+                    if ($("#error").val() !== 0) {
+                        alertify.alert($("#error").val()).set({ onshow: null, onclose: function () { window.location = "/ChangePass/Index"; } });;
+                    }
+                }
+                $('#change').click(function () {
+
+                    var oldpass = $("#oldpass").val();
+                    var newpass = $("#newpass").val();
+                    var confirmpass = $("#confirmpass").val();
+                    if (oldpass == "" || oldpass == undefined || newpass == "" || newpass == undefined || confirmpass == "" || confirmpass == undefined) {
+                        alertify.alert("Data entered must not be blank!");
+                        return false;
+                    }
+                    if (oldpass == newpass) {
+                        alertify.alert("The new password must be different from the old password!");
+                        return false;
+                    }
+                    if (newpass != confirmpass) {
+                        alertify.alert("The new password and confirm password not similar!");
+                        return false;
+                    }
+
+                    $.ajax({
+                        type: "POST",
+                        url: _subFolder + "/ChangePass/Index",
+                        data: { oldpass: oldpass, newpass: newpass, confirmpass: confirmpass },
+                        cache: false,
+                        success: function (data) {
+                            var msg = $('#error').val();
+                            if (msg == "Your password changed successful!") {
+                                 alertify.alert(msg).set({
+                                     onshow: null, onclose: function () {                                        
+                                        window.location = "/Home/Index";
+                                    }
+                                });;
+                          
+                            }
+
+
+                        },
+                        error: function (data) {
+                            alertify.warning(data.mess);
+                            return false;
+                        }
+                    });
+
+                });
+    })
+  
+    
+  
+
+</script>
+
+
+

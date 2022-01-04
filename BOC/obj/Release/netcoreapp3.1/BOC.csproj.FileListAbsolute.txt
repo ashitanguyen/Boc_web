@@ -1,0 +1,1484 @@
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\BOC.exe
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\BOC.deps.json
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.json
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.dev.json
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\BOC.Views.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Catel.Core.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Catel.MVVM.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Core.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Data.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Nancy.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\de\Catel.MVVM.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\es\Catel.MVVM.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\it\Catel.MVVM.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\source\repos\BOC\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfo.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.Manifest.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.xml
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\scopedcss\bundle\BOC.styles.css
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.input.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.output.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.RazorCoreGenerate.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Boc\Index.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\ChangePass\Index.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Demo.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Detail.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Index.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_FLC\Detail.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_FLC\Index.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_HAN\Index.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Forgot\Index.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\FO_DOC_READER\Index.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport_FLC.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Layout4Boc.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cs
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CopyComplete
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.genruntimeconfig.cache
+C:\Users\PC\source\repos\BOC\BOC\obj\Release\netcoreapp3.1\BOC.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\BOC.exe
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\BOC.deps.json
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.json
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.dev.json
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\BOC.Views.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Catel.Core.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Catel.MVVM.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Core.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Data.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Nancy.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\de\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\es\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\it\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_3\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.Manifest.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.xml
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\scopedcss\bundle\BOC.styles.css
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.input.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.output.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.RazorCoreGenerate.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Boc\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\ChangePass\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Demo.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Detail.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_FLC\Detail.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_FLC\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_HAN\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Forgot\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\FO_DOC_READER\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport_FLC.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Layout4Boc.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CopyComplete
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.genruntimeconfig.cache
+C:\Users\PC\Desktop\BOC_3\BOC\obj\Release\netcoreapp3.1\BOC.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.exe
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.deps.json
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.json
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.dev.json
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.Views.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Catel.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Catel.MVVM.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Data.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Nancy.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.Manifest.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.xml
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\scopedcss\bundle\BOC.styles.css
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.input.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.output.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorCoreGenerate.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Boc\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\ChangePass\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Demo.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Detail.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_FLC\Detail.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_FLC\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_HAN\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Forgot\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FO_DOC_READER\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport_FLC.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Layout4Boc.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CopyComplete
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.genruntimeconfig.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.exe
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.deps.json
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.json
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.dev.json
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.pdb
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.Views.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Catel.Core.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Catel.MVVM.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Core.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Data.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Nancy.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Catel.MVVM.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Catel.MVVM.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Catel.MVVM.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfoInputs.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfo.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.Manifest.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.xml
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\scopedcss\bundle\BOC.styles.css
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.input.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.output.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorCoreGenerate.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Baggage\Views\Home\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\Home\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Boc\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\ChangePass\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Detail.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\FlightOne.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_FLC\Detail.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_FLC\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView_HAN\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Forgot\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FO_DOC_READER\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport_FLC.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report1.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report2.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Layout4Boc.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CopyComplete
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.dll
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.pdb
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.genruntimeconfig.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.csprojAssemblyReference.cache
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC_Counter.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\Home\Index.cshtml.g.cs
+C:\Users\AD\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\BL.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.exe
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.deps.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.dev.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.Views.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Catel.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Catel.MVVM.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Data.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Nancy.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.Manifest.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.xml
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\scopedcss\bundle\BOC.styles.css
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.input.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.output.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorCoreGenerate.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Baggage\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\BL.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC_Counter.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Boc\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\ChangePass\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Detail.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\FlightOne.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\BL.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\FLC.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\FLC_Counter.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Forgot\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FO_DOC_READER\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report1.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report2.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Layout4Boc.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CopyComplete
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.genruntimeconfig.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\BOC.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report3.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Umbraco.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\bin\Release\netcoreapp3.1\Fare.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\FlightDoc.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDateMobile\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\BOC.exe
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\BOC.deps.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.dev.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\BOC.Views.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Catel.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Catel.MVVM.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Data.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Fare.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Nancy.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\Umbraco.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\de\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\es\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\it\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.Manifest.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.xml
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\scopedcss\bundle\BOC.styles.css
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.input.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.output.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.RazorCoreGenerate.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Baggage\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\BL.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC_Counter.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Boc\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\ChangePass\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDateMobile\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Detail.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\FlightDoc.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\FlightOne.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\BL.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\FLC.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\FLC_Counter.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Forgot\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\FO_DOC_READER\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report1.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report2.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report3.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Layout4Boc.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CopyComplete
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_2\BOC\obj\Release\netcoreapp3.1\BOC.genruntimeconfig.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.exe
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.deps.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.dev.json
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.Views.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Catel.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Catel.MVVM.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Data.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Fare.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Nancy.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Umbraco.Core.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.Manifest.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.xml
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\scopedcss\bundle\BOC.styles.css
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.input.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.output.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorCoreGenerate.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Baggage\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\BL.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC_Counter.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Boc\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\ChangePass\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDateMobile\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Detail.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\FlightDoc.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\FlightOne.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\BL.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\FLC.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\FLC_Counter.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Forgot\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FO_DOC_READER\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report1.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report2.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report3.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Layout4Boc.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CopyComplete
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.dll
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.pdb
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.genruntimeconfig.cache
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Baggage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Desktop\BOC_UP\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Baggage\Views\Pages\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.exe
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.deps.json
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.json
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.runtimeconfig.dev.json
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.pdb
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.Views.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Catel.Core.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Catel.MVVM.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Core.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\DevExtreme.AspNet.Data.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Fare.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Nancy.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Catel.MVVM.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Catel.MVVM.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Catel.MVVM.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfoInputs.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.AssemblyInfo.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorAssemblyInfo.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.Manifest.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\staticwebassets\BOC.StaticWebAssets.xml
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\scopedcss\bundle\BOC.styles.css
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.input.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.TagHelpers.output.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorCoreGenerate.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Home\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Pages\BaggageDescEdit.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Pages\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Profiles\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\Home\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\BL.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\FlightView\FLC_Counter.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\STV\Views\Home\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Boc\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\ChangePass\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDateMobile\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Detail.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\FlightDoc.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\FlightOne.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightDate\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\BL.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\FLC.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FlightView\FLC_Counter.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Forgot\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\FO_DOC_READER\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Lounge\Airport.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report1.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report2.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Report\Report3.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\Layout4Boc.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.RazorTargetAssemblyInfo.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.Views.pdb
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.csproj.CopyComplete
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.pdb
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\BOC.genruntimeconfig.cache
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Serilog.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Release\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\FlightDate\Detail.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\FlightDate\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\Home\Error.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\MainMenu\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\Mobile\Views\Shared\_Layout4Functions.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\SeatMap\Views\Home\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Areas\SeatMap\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\BAGHS_FOUND\BaggageDescHsEdit.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Release\netcoreapp3.1\Razor\Views\BAGHS_FOUND\Index.cshtml.g.cs

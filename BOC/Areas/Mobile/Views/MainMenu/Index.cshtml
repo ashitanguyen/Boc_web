@@ -1,0 +1,214 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Mobile/Views/Shared/_Layout.cshtml";
+}
+@using BOC.Areas.Mobile.Models;
+@model MenuMobiModel;
+
+<div class="container" style="margin-left:-10px;margin-top:10px;">
+    <div class="row-xs-12">
+        <p>Hello @ViewBag.Username <a id="logout" href="#"><img style="float:right;" src="@Url.Content("~/images/Mobile/power.jpg")" alt="logout" width="30" height="30"></a></p>
+    </div>
+    <div class="row-xs-12" style="margin-left:-35px;">
+        <img src="@Url.Content("~/images/Mobile/banner.jpg")" alt="air-plane" id="banner">
+    </div>
+    <div class="bradname">
+        <p style="margin-top: 7px;">Flight Operator</p>
+    </div>
+    <div class="Row" id="fix-row">
+        @for (int i = 0; i < Model.Data.Count; i++)
+        {
+
+            if (Model.Data[i].MobiGroupCaption == "Flight Operation")
+            {
+                var num = i + 1;
+                @if (num == 1)
+                {
+                    <div class="Column" id="box1">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+                }
+                @if (num == 2)
+                {
+                    <div class="Column" id="box2">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+                }
+                @if (num == 3)
+                {
+                    <div class="Column" id="box3">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+
+                }
+            }
+        }
+    </div>
+    <div class="bradname">
+        <p style="margin-top: 7px;">Flight Report</p>
+    </div>
+    <div class="Row" id="fix-row">
+        @for (int i = 0; i < Model.Data.Count; i++)
+        {
+
+            if (Model.Data[i].MobiGroupCaption == "Flight Report")
+            {
+                var num = i + 1;
+                @if (num == 3)
+                {
+                    <div class="Column" id="box1">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+                }
+
+            }
+        }
+    </div>
+    <div class="bradname">
+        <p style="margin-top: 7px;">Tools</p>
+    </div>
+    <div class="Row" id="fix-row">
+        @for (int i = 0; i < Model.Data.Count; i++)
+        {
+
+            if (Model.Data[i].MobiGroupCaption == "Tools")
+            {
+                var num = i + 1;
+                @if (num == 4)
+                {
+                    <div class="Column" id="box1">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+                }
+                @if (num == 5)
+                {
+                    <div class="Column" id="box2">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+                }
+                @if (num == 6)
+                {
+                    <div class="Column" id="box3">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+
+                }
+
+            }
+        }
+    </div>
+
+
+
+
+
+    @*<div class="bradname" style="margin-top:30px;">
+            <p style="margin-top: 7px;">Baggage</p>
+        </div>
+        <div class="Row" id="fix-row">
+            @for (int i = 0; i < Model.Data.Count; i++)
+            {
+                var num = i + 1;
+                @if (num == 4)
+                {
+                    <div class="Column" id="box1">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+                }
+                @if (num == 5)
+                {
+                    <div class="Column" id="box2">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+                }
+                @if (num == 6)
+                {
+                    <div class="Column" id="box3">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+
+                }
+            }
+        </div>
+        <div class="bradname" style="margin-top:70px;">
+            <p style="margin-top: 7px;">Other</p>
+        </div>
+        <div class="Row" id="fix-row">
+            @for (int i = 0; i < Model.Data.Count; i++)
+            {
+                var num = i + 1;
+                @if (num == 7)
+                {
+                    <div class="Column" id="box1">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+                }
+                @if (num == 8)
+                {
+                    <div class="Column" id="box2">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+                }
+                @if (num == 9)
+                {
+                    <div class="Column" id="box3">
+                        <img src="~/images/Mobile/@Model.Data[i].FTP_FileName.ToString()" alt="menu-item" width="60" height="60">
+                        <p id="title">@Model.Data[i].text.ToString()</p>
+                    </div>
+
+                }
+            }
+        </div>*@
+
+</div>
+
+
+
+
+    <script>
+        $(function () {
+            $("a#logout").bind('click', function () {
+                window.location.href = _subFolder + "/Home/Index";
+            });
+
+            $(".Column").bind('click', function () {
+                var node = $(this).find("p#title").html();
+                $(this).css('background-color', '#89d8d3');
+                switch (node) {
+                    case "a1. Flight":
+                        window.location.href = "/Mobile/FlightDate/Index";
+                        break;
+                    case "BOC iOS setup":
+                        return window.open("https://testflight.apple.com/join/SAElif2I", "_blank");
+                        break;
+
+                }
+            });
+        });
+
+
+
+    </script>
+    <script>
+        /*Hàm lấy query string trên url */
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+            return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+    </script>
+
