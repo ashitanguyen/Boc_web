@@ -2523,4 +2523,3 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.genrun
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Shared\_MLayout.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\MPages\Index.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\MPages\BaggageDescEdit.cshtml.g.cs
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.csproj.AssemblyReference.cache

@@ -66,6 +66,8 @@ namespace BOC.Areas.Mobile.Controllers
                     // Save  Session TypeOfDevice
                     var typeofdevice = model.TypeOfDevice;
                     HttpContext.Session.SetString("TypeOfDevice", typeofdevice);
+                    // Save  Session WidthOfDevice
+                    HttpContext.Session.SetString("WidthOfDevice", model.WidthOfDevice);
                     // Save  Session Token
                     var token = oData["Data"]["Token"].ToString();
                     HttpContext.Session.SetString("Token", token);

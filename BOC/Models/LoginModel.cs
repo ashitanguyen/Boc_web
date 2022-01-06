@@ -20,6 +20,7 @@ namespace BOC.Models
         public string Result { get; set; }
         public string RequestPath { get; set; }
         public string TypeOfDevice { get; set; }
+        public string WidthOfDevice { get; set; }
 
 
     }

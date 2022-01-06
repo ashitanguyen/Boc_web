@@ -336,6 +336,7 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\images\Mobile\WEB_MENU_21_09_14_99181768925512635.jpg
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\images\Mobile\WEB_MENU_21_09_14_99181768925512636.jpg
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\images\Mobile\WEB_MENU_21_09_14_99181768925512637.png
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\images\Mobile\WEB_MENU_21_09_14_99181768925512639.jpg
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\images\morong.png
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\images\multicolor.jpg
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\images\patern3.png

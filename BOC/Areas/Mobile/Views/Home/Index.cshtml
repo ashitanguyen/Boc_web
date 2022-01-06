@@ -56,6 +56,7 @@
                                         </div>
                                     </div>
                                     <div class="form-group m-0">
+                                        @Html.HiddenFor(model => model.WidthOfDevice, new { @id = "widthofdevice" })
                                         @Html.HiddenFor(model => model.TypeOfDevice, new { @id = "typeofdevice" })
                                         <button type="submit" id="login" class="btn btn-primary btn-block">
                                             Login
@@ -79,28 +80,37 @@
     <script src="/js/my-login.js"></script>
     <script>
 
-            $(function () {
-                if ($("#error").val() !== "") {
-                    alertify.alert($("#error").val());
+        $(function () {
+            var width = getscreenresolution();
 
-                }
-                if ($("#result").val() !== "") {
-                    $('#password').val("");
+            if ($("#error").val() !== "") {
+                alertify.alert($("#error").val());
 
-                }
-                if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-                    // true for mobile device
-                    $("#typeofdevice").val("MOBILE");
-                    document.getElementById("texthead").innerHTML = "Login.";
+            }
+            if ($("#result").val() !== "") {
+                $('#password').val("");
 
-                } else {
-                    // false for not mobile device
-                    $("#typeofdevice").val("NONE");
-                    document.getElementById("texthead").innerHTML = "Login";
+            }
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                // true for mobile device
+                $("#typeofdevice").val("MOBILE");
+                $("#widthofdevice").val(width.toString());
+                document.getElementById("texthead").innerHTML = "Login.";
 
-                }
-            })
-     </script>
-    
+            } else {
+                // false for not mobile device
+                $("#typeofdevice").val("NONE");
+                $("#widthofdevice").val(width.toString());
+                document.getElementById("texthead").innerHTML = "Login";
+
+            }
+        })
+    </script>
+    <script>
+        /*Lấy kích thước chiều rộng màn hình*/
+        function getscreenresolution() {
+            return screen.width;
+        }
+    </script>
 </body>
 </html>
