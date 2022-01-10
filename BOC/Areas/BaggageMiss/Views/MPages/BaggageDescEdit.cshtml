@@ -96,39 +96,41 @@
                         <div class="col-md-2">Baggage Description:</div>
                     </div>
                     <div class="row">
-                        <table class="table table-bordered" style="margin-left:40px!important;margin-right:20px!important;">
+                        <table class="table table-bordered" style="margin-left: 2px !important;  width: 95%">
                             @for (int i = 0; i < lstdescEdit.BagDesc.Count; i++)
                             {
 
                                 @if (lstdescEdit.BagDesc[i].BagGroup_ID != @GroupID)
                                 {
                                     <tr>
-                                        <td colspan="2" style="background-color: #ffcc00; color: #FFFFFF; font-size: medium; font-weight: bold; text-align: center;">@lstdescEdit.BagDesc[i].GroupName_EN</td>
+                                        <td colspan="3" style="background-color: #ffcc00; color: #FFFFFF; font-size: medium; font-weight: bold; text-align: center;">@lstdescEdit.BagDesc[i].GroupName_EN</td>
                                     </tr>
                                     GroupID = lstdescEdit.BagDesc[i].BagGroup_ID;
                                 }
 
 
-                        <tr>
-                            @{
-                                var so_id = @lstdescEdit.BagDesc[i].BagDesc_ID.ToString();
-                                var namegroup = @lstdescEdit.BagDesc[i].BagGroupCode;
-                            }
-                            @if (lstdescEdit.BagDesc[i].UserCheck == true)
-                            {
-                                <td style="width:30px!important;"><input type="radio" checked id="BagGroup_@i" name=@namegroup style="height: 20px; width: 20px;margin-left:20px;margin-top:20px;" value=@so_id></td>
-                            }
-                            else
-                            {
-                                <td style="width:30px!important;"><input type="radio" id="BagGroup_@i" name=@namegroup style="height: 20px; width: 20px;margin-left:20px;margin-top:20px;" value=@so_id></td>
-                            }
+                                <tr>
+                                    @{
+                                        var so_id = @lstdescEdit.BagDesc[i].BagDesc_ID.ToString();
+                                        var namegroup = @lstdescEdit.BagDesc[i].BagGroupCode;
+                                    }
+                                    @if (lstdescEdit.BagDesc[i].UserCheck == true)
+                                    {
+                                        <td style="width:30px!important;"><input type="radio" checked id="BagGroup_@i" name=@namegroup style="height: 20px; width: 20px;margin-left:20px;margin-top:20px;" value=@so_id></td>
+                                    }
+                                    else
+                                    {
+                                        <td style="width:30px!important;"><input type="radio" id="BagGroup_@i" name=@namegroup style="height: 20px; width: 20px;margin-left:20px;margin-top:20px;" value=@so_id></td>
+                                    }
 
-                            <td colspan="2" style="width:270px!important;">
-                                <img src="~/images/BaggageMiss/@lstdescEdit.BagDesc[i].sysFileName.ToString()" alt="Color Image" width="50" height="50">
-                                <label for="edit_@i" style="margin-top:10px;">@lstdescEdit.BagDesc[i].Desc_EN.ToString()</label>
-                            </td>
+                                    <td style="width:70px!important;">
+                                        <img src="~/images/BaggageMiss/@lstdescEdit.BagDesc[i].sysFileName.ToString()" alt="Color Image" width="50" height="50">
+                                    </td>
+                                    <td style="width:200px!important;">
+                                        <label for="edit_@i" style="margin-top:10px;">@lstdescEdit.BagDesc[i].Desc_EN.ToString()</label>
+                                    </td>
 
-                        </tr>
+                                </tr>
 
                             }
                         </table>
@@ -212,35 +214,37 @@
                         <div class="col-md-2">Baggage Description:</div>
                     </div>
                     <div class="row">
-                        <table class="table table-bordered" style="margin-left:40px!important;margin-right:20px!important;">
+                        <table class="table table-bordered" style="margin-left: 2px !important;  width: 95%">
                             @for (int i = 0; i < lstdescEdit.BagDesc.Count; i++)
                             {
 
                                 @if (lstdescEdit.BagDesc[i].BagGroup_ID != @GroupID)
                                 {
                                     <tr>
-                                        <td colspan="2" style="background-color: #ffcc00; color: #FFFFFF; font-size: medium; font-weight: bold; text-align: center;">@lstdescEdit.BagDesc[i].GroupName_EN</td>
+                                        <td colspan="3" style="background-color: #ffcc00; color: #FFFFFF; font-size: medium; font-weight: bold; text-align: center;">@lstdescEdit.BagDesc[i].GroupName_EN</td>
                                     </tr>
                                     GroupID = lstdescEdit.BagDesc[i].BagGroup_ID;
                                 }
 
 
-                                <tr>
-                                    @if (lstdescEdit.BagDesc[i].UserCheck == true)
-                                    {
-                                        <td style="width:30px!important;"><input type="radio" checked id="BagGroup_@i" name="@lstdescEdit.BagDesc[i].BagGroup_ID.ToString()" style="height: 20px; width: 20px; margin-left: 20px; margin-top: 20px; display: block;" value="@lstdescEdit.BagDesc[i].BagDetailCode"></td>
-                                    }
-                                    else
-                                    {
-                                        <td style="width:30px!important;"><input type="radio" id="BagGroup_@i" disabled  name="@lstdescEdit.BagDesc[i].BagGroup_ID.ToString()" style="height: 20px; width: 20px; margin-left: 20px; margin-top: 20px; display: block;" value="@lstdescEdit.BagDesc[i].BagDetailCode"></td>
-                                    }
+                        <tr>
+                            @if (lstdescEdit.BagDesc[i].UserCheck == true)
+                            {
+                                <td style="width:30px!important;"><input type="radio" checked id="BagGroup_@i" name="@lstdescEdit.BagDesc[i].BagGroup_ID.ToString()" style="height: 20px; width: 20px; margin-left: 20px; margin-top: 20px; display: block;" value="@lstdescEdit.BagDesc[i].BagDetailCode"></td>
+                            }
+                            else
+                            {
+                                <td style="width:30px!important;"><input type="radio" id="BagGroup_@i" disabled name="@lstdescEdit.BagDesc[i].BagGroup_ID.ToString()" style="height: 20px; width: 20px; margin-left: 20px; margin-top: 20px; display: block;" value="@lstdescEdit.BagDesc[i].BagDetailCode"></td>
+                            }
 
-                                    <td colspan="2" style="width:270px!important;">
-                                        <img src="~/images/BaggageMiss/@lstdescEdit.BagDesc[i].sysFileName.ToString()" alt="Color Image" width="50" height="50">
-                                        <label for="edit_@i" style="margin-top: 10px;">@lstdescEdit.BagDesc[i].Desc_EN.ToString()</label>
-                                    </td>
+                            <td style="width:70px!important;">
+                                <img src="~/images/BaggageMiss/@lstdescEdit.BagDesc[i].sysFileName.ToString()" alt="Color Image" width="50" height="50">
+                            </td>
+                            <td style="width: 200px !important; word-wrap: break-word;">
+                                <label for="edit_@i" style="margin-top: 10px;">@lstdescEdit.BagDesc[i].Desc_EN.ToString()</label>
+                            </td>
 
-                                </tr>
+                        </tr>
 
                             }
                         </table>
@@ -322,14 +326,14 @@
                         <div class="col-md-2">Mô Tả Chi Tiết:</div>
                     </div>
                     <div class="row">
-                        <table class="table table-bordered" style="margin-left:40px!important;margin-right:20px!important;">
+                        <table class="table table-bordered" style="margin-left: 2px !important;  width: 95%">
                             @for (int i = 0; i < lstdescEdit.BagDesc.Count; i++)
                             {
 
                                 @if (lstdescEdit.BagDesc[i].BagGroup_ID != @GroupID)
                                 {
                                     <tr>
-                                        <td colspan="2" style="background-color: #ffcc00; color: #FFFFFF; font-size: medium; font-weight: bold; text-align: center;">@lstdescEdit.BagDesc[i].GroupName_VN</td>
+                                        <td colspan="3" style="background-color: #ffcc00; color: #FFFFFF; font-size: medium; font-weight: bold; text-align: center;">@lstdescEdit.BagDesc[i].GroupName_VN</td>
                                     </tr>
                                     GroupID = lstdescEdit.BagDesc[i].BagGroup_ID;
                                 }
@@ -348,9 +352,11 @@
                             {
                                 <td style="width:30px!important;"><input type="radio" id="BagGroup_@i" name=@namegroup style="height: 20px; width: 20px;margin-left:20px;margin-top:20px;" value=@so_id></td>
                             }
-                           
-                            <td colspan="2" style="width:270px!important;">
+
+                            <td style="width:70px!important;">
                                 <img src="~/images/BaggageMiss/@lstdescEdit.BagDesc[i].sysFileName.ToString()" alt="Color Image" width="50" height="50">
+                            </td>
+                            <td style="width: 200px !important; word-wrap: break-word;">
                                 <label for="edit_@i" style="margin-top:10px;">@lstdescEdit.BagDesc[i].Desc_VN.ToString()</label>
                             </td>
 
@@ -438,35 +444,36 @@
                         <div class="col-md-2">Mô Tả Chi Tiết:</div>
                     </div>
                     <div class="row">
-                        <table class="table table-bordered" style="margin-left:40px!important;margin-right:20px!important;">
+                        <table class="table table-bordered" style="margin-left: 2px !important;  width: 95%">
                             @for (int i = 0; i < lstdescEdit.BagDesc.Count; i++)
                             {
 
                                 @if (lstdescEdit.BagDesc[i].BagGroup_ID != @GroupID)
                                 {
                                     <tr>
-                                        <td colspan="2" style="background-color: #ffcc00; color: #FFFFFF; font-size: medium; font-weight: bold; text-align: center; ">@lstdescEdit.BagDesc[i].GroupName_VN</td>
+                                        <td colspan="3" style="background-color: #ffcc00; color: #FFFFFF; font-size: medium; font-weight: bold; text-align: center; ">@lstdescEdit.BagDesc[i].GroupName_VN</td>
                                     </tr>
                                     GroupID = lstdescEdit.BagDesc[i].BagGroup_ID;
                                 }
 
 
-                                <tr>
-                                    @if (lstdescEdit.BagDesc[i].UserCheck == true)
-                                    {
-                                        <td style="width: 30px !important;"><input type="radio" checked id="BagGroup_@i" name="@lstdescEdit.BagDesc[i].BagGroup_ID.ToString()" style="height: 20px; width: 20px; margin-left: 20px; margin-top: 20px;" value="@lstdescEdit.BagDesc[i].BagDetailCode"></td>
-                                    }
-                                    else
-                                    {
-                                        <td style="width: 30px !important;"><input type="radio" id="BagGroup_@i" name="@lstdescEdit.BagDesc[i].BagGroup_ID.ToString()" disabled style="height: 20px; width: 20px; margin-left: 20px; margin-top: 20px;" value="@lstdescEdit.BagDesc[i].BagDetailCode"></td>
-                                    }
+                        <tr>
+                            @if (lstdescEdit.BagDesc[i].UserCheck == true)
+                            {
+                                <td style="width: 30px !important;"><input type="radio" checked id="BagGroup_@i" name="@lstdescEdit.BagDesc[i].BagGroup_ID.ToString()" style="height: 20px; width: 20px; margin-left: 20px; margin-top: 20px;" value="@lstdescEdit.BagDesc[i].BagDetailCode"></td>
+                            }
+                            else
+                            {
+                                <td style="width: 30px !important;"><input type="radio" id="BagGroup_@i" name="@lstdescEdit.BagDesc[i].BagGroup_ID.ToString()" disabled style="height: 20px; width: 20px; margin-left: 20px; margin-top: 20px;" value="@lstdescEdit.BagDesc[i].BagDetailCode"></td>
+                            }
 
-                                    <td colspan="2" style="width:270px!important;">
-                                        <img src="~/images/BaggageMiss/@lstdescEdit.BagDesc[i].sysFileName.ToString()" alt="Color Image" width="50" height="50">
-                                        <label for="edit_@i" style="margin-top: 10px;">@lstdescEdit.BagDesc[i].Desc_VN.ToString()</label>
-                                    </td>
-
-                                </tr>
+                            <td style="width:70px!important;">
+                                <img src="~/images/BaggageMiss/@lstdescEdit.BagDesc[i].sysFileName.ToString()" alt="Color Image" width="50" height="50">
+                            </td>
+                            <td style="width: 200px !important; word-wrap: break-word;">
+                                <label for="edit_@i" style="margin-top: 10px;">@lstdescEdit.BagDesc[i].Desc_VN.ToString()</label>
+                            </td>
+                        </tr>
 
                             }
                         </table>

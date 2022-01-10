@@ -37,12 +37,13 @@
 
     .info {
         display: table-cell;
-        width: 100px;
+        width: 160px;
         color: #00548E;
         margin-left: 42px;
-        vertical-align: middle;
+        /*! vertical-align: middle; */
         flex-grow: 1;
         white-space: nowrap;
+        text-align: center;
     }
 
     /* iPhone only */

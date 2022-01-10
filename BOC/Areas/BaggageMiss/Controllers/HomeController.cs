@@ -231,7 +231,6 @@ namespace BOC.Areas.Baggage.Controllers
                                 // Save  Session TypeOfDevice,PNR,FltNo,FltDate,WidthOfDevice
                                 var typeofdevice = model.TypeOfDevice;
                                 HttpContext.Session.SetString("TypeOfDevice", typeofdevice);
-                                HttpContext.Session.SetString("WidthOfDevice", model.WidthOfDevice);
                                 HttpContext.Session.SetString("PNR", model.PNR);
                                 HttpContext.Session.SetString("FltNo", model.FltNo.ToString());
                                 HttpContext.Session.SetString("FltDate", model.FltDate);
@@ -240,6 +239,7 @@ namespace BOC.Areas.Baggage.Controllers
                                 //return RedirectToAction("Index", "Profiles");
                                 if (typeofdevice == "MOBILE")
                                 {
+                                    HttpContext.Session.SetString("WidthOfDevice", model.WidthOfDevice);
                                     return RedirectToAction("Index", "MPages");
                                 }
                                 if (typeofdevice == "NONE")

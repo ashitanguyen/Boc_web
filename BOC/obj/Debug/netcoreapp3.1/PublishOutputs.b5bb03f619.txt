@@ -207,6 +207,9 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\data\BagMiss\BAGHS_MISS_21_12_29_99181768925515063.jpg
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\data\BagMiss\BAGHS_MISS_21_12_30_99181768925515073.jpg
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\data\BagMiss\BAGHS_MISS_21_12_30_99181768925515083.jpg
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\data\BagMiss\BAGHS_MISS_22_01_06_99181768925515142.jpg
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\data\BagMiss\BAGHS_MISS_22_01_06_99181768925515143.jpg
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\data\BagMiss\BAGHS_MISS_22_01_06_99181768925515151.jpg
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\fonts\font-awesome-4.7.0\css\font-awesome.css
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\PubTmp\Out\wwwroot\fonts\font-awesome-4.7.0\css\font-awesome.min.css

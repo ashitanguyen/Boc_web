@@ -262,7 +262,7 @@ namespace BOC.Areas.BaggageMiss.Controllers
         
         public IActionResult Index(string t_flag, string t_bagmiss_id,string t_action)
         {
-            
+           
             t_flag = t_flag == null ? HttpContext.Session.GetString("Lang") : t_flag;
             if (t_flag == "EN")
             {
@@ -282,22 +282,27 @@ namespace BOC.Areas.BaggageMiss.Controllers
             {
                 HttpContext.Session.SetString("BagMiss_ID",t_bagmiss_id);
             }
-            if (t_action == "0" && t_bagmiss_id=="0")
+            if (t_action == "0")
             {
-                //Remove Session BagMissID
-                HttpContext.Session.Remove("BagMiss_ID");
+                ////Remove Session BagMissID
+                //HttpContext.Session.Remove("BagMiss_ID");
+                ////Remove Session BagMissID
+                //HttpContext.Session.Remove("BagMissDetail_ID");
+                t_bagmiss_id = "0";
 
             }
+
             ViewModel mymodel = new ViewModel();
 
 
             var t_bagmissdetail_id = HttpContext.Session.GetString("BagMissDetail_ID") == null ? "0" : HttpContext.Session.GetString("BagMissDetail_ID");
-           
-            
-            ////Get Session object BagDescription
 
+
+
+            ////Get Session object BagDescription
             mymodel.MissContacts = GetMissContacts(t_bagmiss_id);
             mymodel.MissDetails = GetMissDetails(t_bagmiss_id, t_bagmissdetail_id);
+
 
             var delete = HttpContext.Session.GetString("Delete");
             var upload = HttpContext.Session.GetString("UPLOADED");
@@ -373,9 +378,9 @@ namespace BOC.Areas.BaggageMiss.Controllers
 
                         //Save Session BagMiss_ID
                         HttpContext.Session.SetString("BagMiss_ID", BagMiss_ID);
-
+                        var rs = BagMiss_ID.ToString();
                         strMess = lst.Message;
-                        return Json(new { mess = "OK" });
+                        return Json(new { mess = "OK",result=rs });
 
                     }
                     else

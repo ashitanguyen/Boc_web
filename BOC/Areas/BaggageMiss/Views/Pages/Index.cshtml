@@ -363,9 +363,9 @@
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">Baggage Information</h5>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                @*<button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                     <span aria-hidden="true">&times;</span>
-                                </button>
+                                </button>*@
                             </div>
                             <div class="modal-body" style="height: 400px;overflow-y: auto;">
                                 <div class="form-group">
@@ -442,7 +442,7 @@
                                     <br />
                                     <div class="modal-footer">
                                         <button type="button" class="btn btn-primary float-left" id="saveBaggage">Save</button>&nbsp;
-                                        <button type="button" class="btn btn-danger mr-auto" data-dismiss="modal">Cancel</button>
+                                        <button type="button" class="btn btn-danger mr-auto" onclick="CloseModal();"   @*data-dismiss="modal"*@>Cancel</button>
                                     </div>
                                 </div>
                             </div>
@@ -705,9 +705,9 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <h5 class="modal-title" id="exampleModalLabel">Thông Tin Hành Lý Bỏ Quên</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            @*<button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
+                            </button>*@
                         </div>
                         <div class="modal-body" style="height: 400px;overflow-y: auto;">
                             <div class="form-group">
@@ -786,7 +786,7 @@
                                 <div class="modal-footer">
                                     <div class="w-100">
                                         <button type="button" class="btn btn-primary float-left" id="saveBaggage">Cập nhật</button>&nbsp;
-                                        <button type="button" class="btn btn-danger mr-auto" data-dismiss="modal">Hủy bỏ</button>
+                                        <button type="button" class="btn btn-danger mr-auto" onclick="CloseModal();"  @*data-dismiss="modal"*@>Hủy bỏ</button>
                                     </div>
                                 </div>
                             </div>
@@ -919,6 +919,14 @@
         }
 
     }
+
+    function CloseModal() {
+
+        $('#myModal').modal('hide');
+        var BagMiss_ID =@BagMiss_ID== "0" ? sessionStorage.getItem("BagMiss_ID") :@BagMiss_ID;
+        window.location.href = _subFolder + "/Pages/Index?t_flag=" + $("#langselect").val() + "&t_bagmiss_id=" + BagMiss_ID;
+    }
+
 
     function ViewAttach(fileId) {
         for (let i = 0; i < _attchfileList.length; i++) {
@@ -1431,7 +1439,8 @@
 
         $("#CreateProfile").bind('touchstart click', function () {
             var check = sessionStorage.getItem("Check");
-            if (check == false || check == null) {
+            var ischecked = $('#ckbargree').is(":checked");
+            if (check == false || check == null || ischecked == false) {
                 if ($('#lang').val() == "EN") {
                     alertify.alert('Kindly acknowledge commitment message to complete declaration form.')
                     return false;
@@ -1487,6 +1496,7 @@
                     cache: false,
                     success: function (data) {
                         if (data.mess == "OK") {
+                            sessionStorage.setItem("BagMiss_ID", data.result);
                             //Hidden fieldSet
                             $('#myfieldset').prop('disabled', true);
                             $("#CreateProfile").hide();

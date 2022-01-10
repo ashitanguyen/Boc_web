@@ -283,10 +283,13 @@ namespace BOC.Areas.BaggageMiss.Controllers
             {
                 HttpContext.Session.SetString("BagMiss_ID", t_bagmiss_id);
             }
-            if (t_action == "0" && t_bagmiss_id == "0")
+            if (t_action == "0" && t_bagmiss_id != "0")
             {
-                //Remove Session BagMissID
-                HttpContext.Session.Remove("BagMiss_ID");
+                ////Remove Session BagMissID
+                //HttpContext.Session.Remove("BagMiss_ID");
+                ////Remove Session BagMissID
+                //HttpContext.Session.Remove("BagMissDetail_ID");
+                t_bagmiss_id = "0";
 
             }
             ViewModel mymodel = new ViewModel();
@@ -376,8 +379,9 @@ namespace BOC.Areas.BaggageMiss.Controllers
                         //Save Session BagMiss_ID
                         HttpContext.Session.SetString("BagMiss_ID", BagMiss_ID);
 
+                        var rs = BagMiss_ID.ToString();
                         strMess = lst.Message;
-                        return Json(new { mess = "OK" });
+                        return Json(new { mess = "OK", result = rs });
 
                     }
                     else
