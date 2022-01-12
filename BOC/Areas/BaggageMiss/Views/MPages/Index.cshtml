@@ -222,7 +222,7 @@
                                         {
                                             @foreach (BaggageMissDetailModel d in Model.MissDetails)
                                             {
-                                                @if (stage != "CL")
+                                                @if (stage != "CL" && BagMiss_ID.ToString() != "0" && d.BagMissDetail_ID.ToString() != "")
                                                 {
                                                     <div class="card text-dark bg-light mb-3" style="max-width: 100%;">
                                                         <div class="card-header">
@@ -240,7 +240,7 @@
 
 
                                                 }
-                                                @if (stage == "CL")
+                                                @if (stage == "CL" && BagMiss_ID.ToString() != "0" && d.BagMissDetail_ID.ToString() != "")
                                                 {
 
                                                     <div class="card text-dark bg-light mb-3" style="max-width: 100%;">
@@ -257,8 +257,9 @@
 
                                                 }
                                             }
-                                          }
-
+                                        }
+                                       
+                                        
                                         </div>
 
                                 </div>
@@ -600,7 +601,7 @@
                                         {
                                             @foreach (BaggageMissDetailModel d in Model.MissDetails)
                                             {
-                                                @if (stage != "CL")
+                                                @if (stage != "CL" && BagMiss_ID.ToString()!="0" && d.BagMissDetail_ID.ToString()!="")
                                                 {
 
 
@@ -621,7 +622,7 @@
 
 
                                                 }
-                                                @if (stage == "CL")
+                                                @if (stage == "CL" && BagMiss_ID.ToString() != "0" && d.BagMissDetail_ID.ToString() != "")
                                                 {
 
 
@@ -1199,7 +1200,8 @@
                             if (data.mess == "OK") {
                                 HideProgressAnimation();
                                 $('#newModalLong').modal('hide');
-                                window.location.reload();
+                                /*window.location.reload();*/
+                                window.location.href = _subFolder + "/MPages/Index?t_flag=" + $("#langselect").val() + "&t_bagmiss_id=" + BagMiss_ID;
                                 return false;
                             }
 
@@ -1276,7 +1278,8 @@
                         if (data.mess == "OK") {
                             HideProgressAnimation();
                             $('#newModalLong').modal('hide');
-                            window.location.reload();
+                            /*  window.location.reload();*/
+                            window.location.href = _subFolder + "/MPages/Index?t_flag=" + $("#langselect").val() + "&t_bagmiss_id=" + BagMiss_ID;
                             return false;
                         }
 
