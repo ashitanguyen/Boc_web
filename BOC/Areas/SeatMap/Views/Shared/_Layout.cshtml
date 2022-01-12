@@ -2,8 +2,8 @@
 
     var select = @HttpContextAccessor.HttpContext.Session.GetString("Language") == null ? "VN" : @HttpContextAccessor.HttpContext.Session.GetString("Language");
 
-
 }
+
 @using Microsoft.AspNetCore.Http
 @inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
 
@@ -60,7 +60,7 @@
                     getHomeAction = "";
                 var _subFolder = getHomeAction;
         </script>
-
+       
 
     }
 

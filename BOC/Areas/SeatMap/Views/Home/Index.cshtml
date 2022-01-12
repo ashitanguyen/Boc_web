@@ -99,7 +99,11 @@
                             @if (item.SeatRow[@j].Attr.ToString() == "")
                             {
 
-                                <th scope="row" style="border: 1px solid #FFFFFF;"></th>
+                                <td style="border: 1px solid #FFFFFF;width:150%!important;height:auto;">
+                                    <button style="visibility:hidden;">
+                                    
+                                    </button>
+                                </td>
 
                             }
                             @if (item.SeatRow[@j].Attr.ToString() == "CHECKIN")
@@ -149,14 +153,14 @@ else
 
 @if (lang == "VN")
 {
-        <fieldset class="scheduler-border">
+    <fieldset class="scheduler-border">
         <legend class="scheduler-border">Ghi Chú:</legend>
         <div class="panel panel-default">
 
 
             <table>
                 <thead>
-                  
+
                 </thead>
                 <tbody>
                     <tr>
@@ -166,7 +170,7 @@ else
                                 </span>
                             </button>
                         </td>
-                        <td style="font-style: italic;font-size:10pt;width:100%;">Chỗ đã chọn</td>
+                        <td style="font-style: italic;font-size:10pt;width:200px;">Chỗ đã chọn</td>
                     </tr>
                     <tr>
                         <td>
@@ -175,7 +179,7 @@ else
                                 </span>
                             </button>
                         </td>
-                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:100%;">Chỗ còn trống</td>
+                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:200px;">Chỗ còn trống</td>
                     </tr>
                     <tr>
                         <td>
@@ -184,7 +188,7 @@ else
                                 </span>
                             </button>
                         </td>
-                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:100%;">&emsp;&emsp;&emsp;Chỗ không còn trống</td>
+                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:200px;">&emsp;&emsp;&emsp;Chỗ không còn trống</td>
                     </tr>
                     <tr>
                         <td>
@@ -193,9 +197,9 @@ else
                                 </span>
                             </button>
                         </td>
-                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:100%;">&emsp;&emsp;&emsp;Chỗ không khả dụng</td>
+                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:200px;">&emsp;&emsp;&emsp;Chỗ không khả dụng</td>
                     </tr>
-                   
+
                 </tbody>
             </table>
         </div>
@@ -206,55 +210,55 @@ else
 {
 
     <fieldset class="scheduler-border">
-    <legend class="scheduler-border">Note:</legend>
-    <div class="panel panel-default">
-        <div class="panel-body">
-            <table>
-                <thead>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>
-                            <button class="btnbookedNote">
-                                <span class="frontbookedNote">
-                                </span>
-                            </button>
-                        </td>
-                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:100%;">&emsp;&emsp;&emsp;&nbsp;&nbsp;Your selected seat</td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <button class="btnavailableNote">
-                                <span class="frontavailableNote">
-                                </span>
-                            </button>
-                        </td>
-                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:100%;">Available</td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <button class="btnoccupidNote">
-                                <span class="frontoccupidNote">
-                                </span>
-                            </button>
-                        </td>
-                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:100%;">Occupied</td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <button class="btnblockedNote">
-                                <span class="frontblockedNote">
-                                </span>
-                            </button>
-                        </td>
-                        <td style="margin-left:10px;font-style: italic;font-size:10pt;width:100%;">&emsp;Unavailable</td>
-                    </tr>
+        <legend class="scheduler-border">Note:</legend>
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <table>
+                    <thead>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <button class="btnbookedNote">
+                                    <span class="frontbookedNote">
+                                    </span>
+                                </button>
+                            </td>
+                            <td style="margin-left:10px;font-style: italic;font-size:10pt;width:200px;">&emsp;&emsp;&emsp;&nbsp;&nbsp;Your selected seat</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <button class="btnavailableNote">
+                                    <span class="frontavailableNote">
+                                    </span>
+                                </button>
+                            </td>
+                            <td style="margin-left:10px;font-style: italic;font-size:10pt;width:200px;">Available</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <button class="btnoccupidNote">
+                                    <span class="frontoccupidNote">
+                                    </span>
+                                </button>
+                            </td>
+                            <td style="margin-left:10px;font-style: italic;font-size:10pt;width:200px;">Occupied</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <button class="btnblockedNote">
+                                    <span class="frontblockedNote">
+                                    </span>
+                                </button>
+                            </td>
+                            <td style="margin-left:10px;font-style: italic;font-size:10pt;width:200px;">&emsp;Unavailable</td>
+                        </tr>
 
-                </tbody>
-            </table>
+                    </tbody>
+                </table>
+            </div>
         </div>
-    </div>
-</fieldset>
+    </fieldset>
 }
 
 
@@ -268,7 +272,7 @@ else
 
 
         $(".btnavailable").click(function () {
-            debugger
+            
             var id = this.id;
             var data = $(this).attr("data-bb");
             var seatchoose = $(this).data('clicked', true).text().replace(/\s/g, '');//Loại bỏ ký tự \n
@@ -280,7 +284,7 @@ else
                 cache: false,
                 data: { 't_Data': data, 't_SeatChoose': seatchoose, 't_Status': 'OK' },
                 success: function (data) {
-                    debugger
+                    
                     if (data.result == 0) {
                         //$('#' + id).find(".frontavailable").removeClass("frontavailable").addClass("frontbooked");
                         //$('#' + id).removeClass("btnavailable").addClass("btnbooked");
@@ -298,7 +302,7 @@ else
         });
 
         $("body").on('touchstart click', ".btnbooked", function () {
-            debugger
+            
             var id = this.id;
             var data = $(this).attr("data-bb");
             var seatchoose = $(this).data('clicked', true).text().replace(/\s/g, '');//Loại bỏ ký tự \n
@@ -310,7 +314,7 @@ else
                 data: { 't_Data': data, 't_SeatChoose': seatchoose, 't_Status': 'XX' },
                 cache: false,
                 success: function (data) {
-                    debugger
+                    
                     if (data.result == 0) {
                         //$('#' + id).find(".frontbooked").removeClass("frontbooked").addClass("frontavailable");
                         //$('#' + id).removeClass("btnbooked").addClass("btnavailable");
@@ -328,7 +332,7 @@ else
         });
 
         $("#delseat").click(function () {
-            debugger
+            
             var data = $(this).attr("data-bb");
             $.ajax({
                 dataType: "json",
@@ -338,7 +342,7 @@ else
                 cache: false,
                 data: { 't_Data': data },
                 success: function (data) {
-                    debugger
+                    
                     if (data.result == 0) {
                         return location.reload(true);
                     }

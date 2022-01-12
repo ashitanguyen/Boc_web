@@ -16,7 +16,7 @@ namespace BOC.Areas.SeatMap.Controllers
     [Area("SeatMap")]
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Index(string userAgent)
         {
 
             var token = GetToken();
@@ -45,6 +45,10 @@ namespace BOC.Areas.SeatMap.Controllers
             //var oDataSeat = JObject.Parse(ContentSeat);
 
             SeatMapModel model = Newtonsoft.Json.JsonConvert.DeserializeObject<SeatMapModel>(ContentSeat);
+        
+            model.Message = model.Message.ToString() == "Thành công" ? "Success" : model.Message.ToString();
+
+
             return View(model);
         }
         public string GetToken()

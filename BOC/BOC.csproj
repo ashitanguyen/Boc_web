@@ -10,6 +10,91 @@
     <None Remove="Areas\STV\Models\**" />
   </ItemGroup>
   <ItemGroup>
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Alcatel.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Amazon.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\AmazonDevices.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Android.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\AndroidDeviceOverrides.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Anonymized.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Apple.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\AppleTypes.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\AppleTypesBasic.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\AppleWebview.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Apps.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Asus.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Bada.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\BlackBerry.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\BrokenUseragents.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\CPUTypes.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Cubot.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\eBook.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\EMailClients.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Facebook-OsMeta.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Facebook.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\GameConsoles.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\GeckoFirefox.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\GoannaPaleMoon.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\GoogleChrome.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\GoogleChrome70.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\GoogleFavicon.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\GooglePixel.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Hackers-SQLInjections.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Hackers.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Huawei.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\ISOLanguageCode-tests.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\ISOLanguageCode.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\KaiOS.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Konqueror.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Lenovo-Tests.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\LG.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Linux.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Maxthon.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Meizu.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Mobile.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\MobileBrand-rules.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\MobileBrand-tests.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\MobileBrands.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\MobileBrowser-tests.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Mozilla-Testcases.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\MSEdge.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\MSInternetExplorer.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Nokia.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Opera.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\OperatingSystemDeviceNames.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Oppo.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\OtherOS.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Otter.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Robot-Imitators.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\RobotBaseRules.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Robots-Bing.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Robots-Google.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Robots-PriceSpiders.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Robots.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Safari.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Samsung.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\SecurityFlag.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\SettopBox.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Sony.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\SpecialBrowsers.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Tencent.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\TV.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Ubuntu-18.10-tests.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Ubuntu-tests.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Ubuntu.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\UbuntuVersionLookups.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\URL.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\UUID.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Vodafone.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Watches.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Wiko.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Windows.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\WindowsCE.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\WindowsDesktopLookups.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\WindowsOEM-tests.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\WindowsOEMCodes.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\WindowsPhone.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\WindowsPhoneLookups.yaml" />
+    <Content Remove="C:\Users\Nhat Nguyen\.nuget\packages\orbintsoft.yauaa.netstandard\5.13.1\contentFiles\any\netstandard2.0\YamlResources\UserAgents\Xiaomi.yaml" />
     <Content Remove="wwwroot\css\baggage\style.css" />
     <Content Remove="wwwroot\css\MTableProfileStyle-VN.css" />
     <Content Remove="wwwroot\css\SeatNote.css" />
@@ -82,6 +167,7 @@
     <PackageReference Include="MySql.Data" Version="8.0.22" />
     <PackageReference Include="Nancy" Version="2.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="OrbintSoft.Yauaa.NetStandard" Version="5.13.1" />
     <PackageReference Include="RestSharp" Version="106.11.7" />
     <PackageReference Include="Serilog.Extensions.Logging.File" Version="2.0.0" />
     <PackageReference Include="System.Runtime" Version="4.3.1" />

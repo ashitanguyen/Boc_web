@@ -24,6 +24,8 @@ namespace BOC.Areas.SeatMap.Models
         public string Aircraft { get; set; }
         public string PNR { get; set; }
         public int TotalPax { get; set; }
+        public string Language { get; set; }
+
 
 
     }
