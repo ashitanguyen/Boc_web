@@ -171,6 +171,11 @@ namespace BOC
                                          areaName: "BaggageMiss",
                                          pattern: "BaggageMiss/{controller=MPages}/{action=Index}/{t_flag?}/{t_bagmiss_id?}");
 
+                endpoints.MapAreaControllerRoute(
+                                     name: "BaggageMiss",
+                                     areaName: "BaggageMiss",
+                                     pattern: "BaggageMiss/{controller=CompletePages}/{action=Index}/{t_flag?}/{t_bagmiss_id?}");
+
 
                 endpoints.MapAreaControllerRoute(
                                  name: "Mobile",

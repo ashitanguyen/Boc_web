@@ -34,6 +34,7 @@
           "Catel.MVVM": "5.12.11",
           "DevExtreme.AspNet.Core": "21.1.6",
           "DevExtreme.AspNet.Data": "2.8.2",
+          "DeviceDetector.NET": "4.3.0",
           "Fare": "2.1.2",
           "FontAwesome": "4.7.0",
           "Grpc.Core": "2.37.0",
@@ -533,6 +534,24 @@
           "lib/netstandard2.0/DevExtreme.AspNet.Data.dll": {}
         }
       },
+      "DeviceDetector.NET/4.3.0": {
+        "dependencies": {
+          "LiteDB": "5.0.11",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Newtonsoft.Json": "13.0.1",
+          "YamlDotNet": "11.2.1",
+          "Semver": "2.0.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DeviceDetector.NET.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/DeviceDetector.NET.dll": {}
+        }
+      },
       "DomainParser.Library.NetStandard/1.6.0": {
         "dependencies": {
           "System.Configuration.ConfigurationManager": "5.0.0",
@@ -677,6 +696,17 @@
         },
         "compile": {
           "lib/netstandard2.0/K4os.Hash.xxHash.dll": {}
+        }
+      },
+      "LiteDB/5.0.11": {
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "assemblyVersion": "5.0.11.0",
+            "fileVersion": "5.0.11.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {}
         }
       },
       "log4net/2.0.8": {
@@ -2332,7 +2362,7 @@
           "DomainParser.Library.NetStandard": "1.6.0",
           "Newtonsoft.Json": "13.0.1",
           "System.Collections.NonGeneric": "4.3.0",
-          "YamlDotNet": "8.1.1",
+          "YamlDotNet": "11.2.1",
           "log4net": "2.0.8",
           "rm.Trie": "1.0.1"
         },
@@ -2416,6 +2446,20 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
+      "Semver/2.0.6": {
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Semver.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "2.0.6.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard1.1/Semver.dll": {}
+        }
+      },
       "Serilog/2.5.0": {
         "dependencies": {
           "Microsoft.CSharp": "4.5.0",
@@ -3893,11 +3937,11 @@
           "ref/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "YamlDotNet/8.1.1": {
+      "YamlDotNet/11.2.1": {
         "runtime": {
           "lib/netstandard2.1/YamlDotNet.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.1.1.0"
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.2.1.0"
           }
         },
         "compile": {
@@ -5674,6 +5718,13 @@
       "path": "devextreme.aspnet.data/2.8.2",
       "hashPath": "devextreme.aspnet.data.2.8.2.nupkg.sha512"
     },
+    "DeviceDetector.NET/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ACblgn8ajbd2K1LiA8gmgOxFFFJWCTzgUHM8qXIYxLK4V3bzHNm6ZZqDSCIhrBW7FjKZF8KuHfrBrFIu8lSOVg==",
+      "path": "devicedetector.net/4.3.0",
+      "hashPath": "devicedetector.net.4.3.0.nupkg.sha512"
+    },
     "DomainParser.Library.NetStandard/1.6.0": {
       "type": "package",
       "serviceable": true,
@@ -5736,6 +5787,13 @@
       "sha512": "sha512-jCfNP0inx1sGcP3KSbpiDEH3km2e1sVBjMfKo+V92jr1dL4ZYgA1uhRMl1wAtdGZcbObXIikKqtVlgx3j/CW6g==",
       "path": "k4os.hash.xxhash/1.0.6",
       "hashPath": "k4os.hash.xxhash.1.0.6.nupkg.sha512"
+    },
+    "LiteDB/5.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6cL4bOmVCUB0gIK+6qIr68HeqjjHZicPDGQjvJ87mIOvkFsEsJWkIps3yoKNeLpHhJQur++yoQ9Q8gxsdos0xQ==",
+      "path": "litedb/5.0.11",
+      "hashPath": "litedb.5.0.11.nupkg.sha512"
     },
     "log4net/2.0.8": {
       "type": "package",
@@ -6703,6 +6761,13 @@
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.2",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512"
     },
+    "Semver/2.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6OD3Gn+ElluZ9xNa0SspcANjvLt0KdSLiR1wl7ls6ykZxdfDBUruY5LMpMk2q8+EAT3DsvX4SjCDi7EVqdA/fA==",
+      "path": "semver/2.0.6",
+      "hashPath": "semver.2.0.6.nupkg.sha512"
+    },
     "Serilog/2.5.0": {
       "type": "package",
       "serviceable": true,
@@ -7515,12 +7580,12 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
-    "YamlDotNet/8.1.1": {
+    "YamlDotNet/11.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-JXPO7bjUUeDIXgzlLAdNFCzrxBxBzYBbXy3MEp2uWIY7KK8LoNogaPhSg2mLuzCN5flp1ydeVqm+4j3tkP0pow==",
-      "path": "yamldotnet/8.1.1",
-      "hashPath": "yamldotnet.8.1.1.nupkg.sha512"
+      "sha512": "sha512-tBt8K+korVfrjH9wyDEhiLKxbs8qoLCLIFwvYgkSUuMC9//w3z0cFQ8LQAI/5MCKq+BMil0cfRTRvPeE7eXhQw==",
+      "path": "yamldotnet/11.2.1",
+      "hashPath": "yamldotnet.11.2.1.nupkg.sha512"
     },
     "Accessibility/4.0.0.0": {
       "type": "referenceassembly",

@@ -2259,6 +2259,7 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\BOC.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\BOC.pdb
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\BOC.Views.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\BOC.Views.pdb
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Azure.Core.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Azure.Identity.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
@@ -2268,6 +2269,8 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Catel.Core
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Catel.MVVM.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\DevExtreme.AspNet.Core.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\DevExtreme.AspNet.Data.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\DeviceDetector.NET.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\DomainParser.Library.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Fare.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Grpc.Core.dll
@@ -2275,6 +2278,8 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Grpc.Core.
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\LiteDB.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\log4net.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
@@ -2343,7 +2348,10 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Nancy.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\OrbintSoft.Yauaa.NetStandard.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\rm.Trie.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Semver.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Serilog.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
@@ -2375,6 +2383,7 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\System.Tex
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\YamlDotNet.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\de\Catel.MVVM.resources.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\es\Catel.MVVM.resources.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\fr\Catel.MVVM.resources.dll
@@ -2452,6 +2461,7 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\runtimes\u
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.AssemblyInfoInputs.cache
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.AssemblyInfo.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.csproj.CoreCompileInputs.cache
@@ -2466,11 +2476,14 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.TagHel
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.TagHelpers.output.cache
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.RazorCoreGenerate.cache
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Home\Index.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\MPages\BaggageDescEdit.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\MPages\Index.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\MProfiles\Index.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Pages\BaggageDescEdit.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Pages\Index.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Profiles\Index.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Shared\_MLayout.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Shared\_TableFileAttach.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\Mobile\Views\FlightDate\Detail.cshtml.g.cs
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\Mobile\Views\FlightDate\Index.cshtml.g.cs
@@ -2520,13 +2533,3 @@ C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.csproj
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.dll
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.pdb
 C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.genruntimeconfig.cache
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\Shared\_MLayout.cshtml.g.cs
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\MPages\Index.cshtml.g.cs
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\Razor\Areas\BaggageMiss\Views\MPages\BaggageDescEdit.cshtml.g.cs
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\obj\Debug\netcoreapp3.1\BOC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\DomainParser.Library.dll
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\log4net.dll
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\OrbintSoft.Yauaa.NetStandard.dll
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\rm.Trie.dll
-C:\Users\Nhat Nguyen\Desktop\BOC_UP_FINAL\BOC\bin\Debug\netcoreapp3.1\YamlDotNet.dll

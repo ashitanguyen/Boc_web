@@ -131,16 +131,17 @@
 
             if ($("#error").val() !== "") {
                 if ($("#error").val() == "Data entered cannot be left blank." && lang == "VN") {
-                    alertify.alert("Dữ liệu nhập không được bỏ trống");
+
+                    alertify.alert("Dữ liệu nhập không được bỏ trống.");
                 }
-                else {
+                if ($("#error").val() == "Data entered cannot be left blank." && lang == "EN"){
                     alertify.alert($("#error").val());
                 }
 
                 if ($("#error").val() == 'Not found ' && lang == "VN") {
-                    alertify.alert("Không tìm thấy");
+                    alertify.alert("Không tìm thấy.");
                 }
-                else {
+                if ($("#error").val() == 'Not found ' && lang == "EN") {
                     alertify.alert($("#error").val());
                 }
 

@@ -25,21 +25,21 @@ namespace BOC.Areas.Baggage.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-   
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
-         
-        }
-        
 
-       
+        }
+
+
+
 
         [HttpGet]
-        public IActionResult Index(string msg,string UserCurrent)
+        public IActionResult Index(string msg, string UserCurrent)
         {
             //Remove all Session
-            HttpContext.Session.Clear();
+            //HttpContext.Session.Clear();
             var model = new CheckModel();
             var token = GetToken();
             if (!String.IsNullOrEmpty(msg))
@@ -55,7 +55,7 @@ namespace BOC.Areas.Baggage.Controllers
             }
             else
             {
-                
+
                 HttpContext.Session.SetString("Token", token);
                 return View(model);
             }
@@ -80,7 +80,7 @@ namespace BOC.Areas.Baggage.Controllers
             ContentSys = res_sys.Content.ReadAsStringAsync().Result;
             var oDataSys = JObject.Parse(ContentSys);
             // Save  Session Token
-            var token = oDataSys["Data"]["Token"].ToString();          
+            var token = oDataSys["Data"]["Token"].ToString();
             return token;
 
         }
@@ -92,12 +92,12 @@ namespace BOC.Areas.Baggage.Controllers
                CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(culture)),
                new CookieOptions { Expires = DateTimeOffset.UtcNow.AddYears(1) }
            );
-           
+
             // Save  Session Language
             HttpContext.Session.SetString("Lang", culture);
             return RedirectToAction("Index");
         }
-        
+
         [HttpPost]
         public async Task<IActionResult> IndexAsync(CheckModel model)
         {
@@ -128,14 +128,14 @@ namespace BOC.Areas.Baggage.Controllers
                     HttpClient ClientMiss = new HttpClient();
                     var nvc_ = new List<KeyValuePair<string, string>>();
                     nvc_.Add(new KeyValuePair<string, string>("PNR", model.PNR));
-                     nvc_.Add(new KeyValuePair<string, string>("FltNo", model.FltNo.ToString()));
+                    nvc_.Add(new KeyValuePair<string, string>("FltNo", model.FltNo.ToString()));
                     ClientMiss.DefaultRequestHeaders.Add("Authorization", model.token);
                     var req = new HttpRequestMessage(HttpMethod.Post, uri) { Content = new FormUrlEncodedContent(nvc_) };
 
                     string ContentMissBag;
                     HttpResponseMessage res;
                     res = await ClientMiss.SendAsync(req).ConfigureAwait(false); // SỬ DỤNG AWAIT ĐỂ ĐỢI DO SERVER PHẢN HỒI CHẬM 
-                    ContentMissBag =await res.Content.ReadAsStringAsync().ConfigureAwait(false);
+                    ContentMissBag = await res.Content.ReadAsStringAsync().ConfigureAwait(false);
                     var oData = JObject.Parse(ContentMissBag);
                     model.Result = oData["ResultCode"].ToString();
 
@@ -145,7 +145,7 @@ namespace BOC.Areas.Baggage.Controllers
                         //Bind Json To List 
                         JavaScriptSerializer ser = new JavaScriptSerializer();
                         List<BagMissData> lst = ser.Deserialize<List<BagMissData>>(oData["Data"].ToString());//str is JSON string.
-          
+
                         if (lst != null)
                         {
 
@@ -178,7 +178,7 @@ namespace BOC.Areas.Baggage.Controllers
 
 
                             }
-                           
+
                             // Save  Session TypeOfDevice
                             var typeofdevice = model.TypeOfDevice;
                             var widthofdevice = model.WidthOfDevice == null ? "0" : model.WidthOfDevice;
@@ -252,7 +252,7 @@ namespace BOC.Areas.Baggage.Controllers
 
 
                         }
-                         
+
                         if (model.Result == "99" && model.Message == "Not found")
                         {
 
@@ -287,7 +287,7 @@ namespace BOC.Areas.Baggage.Controllers
 
                 return View(model);
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 _logger.LogInformation(ex.ToString());
                 throw ex;
@@ -311,112 +311,112 @@ namespace BOC.Areas.Baggage.Controllers
                 model.FltNo = FltNo;
                 model.token = token;
 
-                   //Get path url api
-                    Url misbag = new Url();
-                    string uri = misbag.Get("MisBagProfileCheck");
-                    HttpClient ClientMiss = new HttpClient();
-                    var nvc_ = new List<KeyValuePair<string, string>>();
-                    nvc_.Add(new KeyValuePair<string, string>("PNR", model.PNR));
-                    nvc_.Add(new KeyValuePair<string, string>("FltNo", model.FltNo));
-                    ClientMiss.DefaultRequestHeaders.Add("Authorization", model.token);
-                    var req = new HttpRequestMessage(HttpMethod.Post, uri) { Content = new FormUrlEncodedContent(nvc_) };
+                //Get path url api
+                Url misbag = new Url();
+                string uri = misbag.Get("MisBagProfileCheck");
+                HttpClient ClientMiss = new HttpClient();
+                var nvc_ = new List<KeyValuePair<string, string>>();
+                nvc_.Add(new KeyValuePair<string, string>("PNR", model.PNR));
+                nvc_.Add(new KeyValuePair<string, string>("FltNo", model.FltNo));
+                ClientMiss.DefaultRequestHeaders.Add("Authorization", model.token);
+                var req = new HttpRequestMessage(HttpMethod.Post, uri) { Content = new FormUrlEncodedContent(nvc_) };
 
-                    string ContentMissBag;
-                    HttpResponseMessage res;
-                    res = await ClientMiss.SendAsync(req).ConfigureAwait(false); // SỬ DỤNG AWAIT ĐỂ ĐỢI DO SERVER PHẢN HỒI CHẬM 
-                    ContentMissBag = await res.Content.ReadAsStringAsync().ConfigureAwait(false);
-                    var oData = JObject.Parse(ContentMissBag);
-                    model.Result = oData["ResultCode"].ToString();
+                string ContentMissBag;
+                HttpResponseMessage res;
+                res = await ClientMiss.SendAsync(req).ConfigureAwait(false); // SỬ DỤNG AWAIT ĐỂ ĐỢI DO SERVER PHẢN HỒI CHẬM 
+                ContentMissBag = await res.Content.ReadAsStringAsync().ConfigureAwait(false);
+                var oData = JObject.Parse(ContentMissBag);
+                model.Result = oData["ResultCode"].ToString();
 
+                if (model.Result == "0")
+                {
+
+                    //Bind Json To List 
+                    JavaScriptSerializer ser = new JavaScriptSerializer();
+                    List<BagMissData> lst = ser.Deserialize<List<BagMissData>>(oData["Data"].ToString());//str is JSON string.
+
+                    if (lst != null)
+                    {
+
+                        for (int i = 0; i < lst.Count; i++)
+                        {
+                            lst[i].ID = i + 1;
+                            model.BagMiss_Id = lst[i].BagMiss_ID;
+                        }
+
+                        // Save  Session PNR && FLTNo
+                        HttpContext.Session.SetString("PNR", model.PNR);
+                        HttpContext.Session.SetString("FltNo", model.FltNo);
+                        // Save  Session object ProfileDescription
+                        SessionHelper.SetObjectAsJson(HttpContext.Session, "ProfileDescription", lst);
+                        //_logger.LogInformation("MissBaggage Exists!");
+                        return RedirectToAction("Index", "Profiles");
+                    }
+
+
+                }
+                else
+                {
+                    Url misbagprofile = new Url();
+                    string url = misbagprofile.Get("MisBagProfileGet");
+                    HttpClient Client2 = new HttpClient();
+                    var nvc = new List<KeyValuePair<string, string>>();
+                    nvc.Add(new KeyValuePair<string, string>("PNR", model.PNR));
+                    nvc.Add(new KeyValuePair<string, string>("FltNo", model.FltNo));
+                    nvc.Add(new KeyValuePair<string, string>("BagMiss_ID", "0"));
+                    Client2.DefaultRequestHeaders.Add("Authorization", model.token);
+                    var req_ = new HttpRequestMessage(HttpMethod.Post, url) { Content = new FormUrlEncodedContent(nvc) };
+
+                    string Content_;
+                    HttpResponseMessage res_;
+                    res_ = Client2.SendAsync(req_).Result;
+                    Content_ = res_.Content.ReadAsStringAsync().Result;
+                    var pData = JObject.Parse(Content_);
+                    model.Result = pData["ResultCode"].ToString();
                     if (model.Result == "0")
                     {
 
                         //Bind Json To List 
                         JavaScriptSerializer ser = new JavaScriptSerializer();
-                        List<BagMissData> lst = ser.Deserialize<List<BagMissData>>(oData["Data"].ToString());//str is JSON string.
-
+                        BagMissData lst = ser.Deserialize<BagMissData>(pData["Data"].ToString());//str is JSON string.
                         if (lst != null)
                         {
-
-                            for (int i = 0; i < lst.Count; i++)
-                            {
-                                lst[i].ID = i + 1;
-                                model.BagMiss_Id = lst[i].BagMiss_ID;
-                            }
-
-                            // Save  Session PNR && FLTNo
+                            model.FltDate = lst.Date.ToString();
+                            // Save  Session PNR,FltNo,FltDate
                             HttpContext.Session.SetString("PNR", model.PNR);
-                            HttpContext.Session.SetString("FltNo", model.FltNo);
+                            HttpContext.Session.SetString("FltNo", model.FltNo.ToString());
+                            HttpContext.Session.SetString("FltDate", model.FltDate);
                             // Save  Session object ProfileDescription
                             SessionHelper.SetObjectAsJson(HttpContext.Session, "ProfileDescription", lst);
-                            //_logger.LogInformation("MissBaggage Exists!");
-                            return RedirectToAction("Index", "Profiles");
+                            //Redirect In Area
+                            //return RedirectToAction("Index", "Pages", new { areaName = "BaggageMiss" });
+                            return RedirectToAction("Index", "Pages");
+
                         }
+
+
+                    }
+
+                    if (model.Result == "99" && model.Message == "Not found")
+                    {
+
+                        // Save  Session PNR,FltNo,FltDate
+                        HttpContext.Session.SetString("PNR", model.PNR);
+                        HttpContext.Session.SetString("FltNo", model.FltNo);
+                        HttpContext.Session.SetString("FltDate", model.FltDate);
+                        //Redirect In Area
+                        //return RedirectToAction("Index", "Pages", new { areaName = "BaggageMiss" });
+                        return RedirectToAction("Index", "Pages");
 
 
                     }
                     else
                     {
-                        Url misbagprofile = new Url();
-                        string url = misbagprofile.Get("MisBagProfileGet");
-                        HttpClient Client2 = new HttpClient();
-                        var nvc = new List<KeyValuePair<string, string>>();
-                        nvc.Add(new KeyValuePair<string, string>("PNR", model.PNR));
-                        nvc.Add(new KeyValuePair<string, string>("FltNo", model.FltNo));
-                        nvc.Add(new KeyValuePair<string, string>("BagMiss_ID", "0"));
-                        Client2.DefaultRequestHeaders.Add("Authorization", model.token);
-                        var req_ = new HttpRequestMessage(HttpMethod.Post, url) { Content = new FormUrlEncodedContent(nvc) };
-
-                        string Content_;
-                        HttpResponseMessage res_;
-                        res_ = Client2.SendAsync(req_).Result;
-                        Content_ = res_.Content.ReadAsStringAsync().Result;
-                        var pData = JObject.Parse(Content_);
-                        model.Result = pData["ResultCode"].ToString();
-                        if (model.Result == "0")
-                        {
-
-                            //Bind Json To List 
-                            JavaScriptSerializer ser = new JavaScriptSerializer();
-                            BagMissData lst = ser.Deserialize<BagMissData>(pData["Data"].ToString());//str is JSON string.
-                            if (lst != null)
-                            {
-                                model.FltDate = lst.Date.ToString();
-                                // Save  Session PNR,FltNo,FltDate
-                                HttpContext.Session.SetString("PNR", model.PNR);
-                                HttpContext.Session.SetString("FltNo", model.FltNo.ToString());
-                                HttpContext.Session.SetString("FltDate", model.FltDate);
-                                // Save  Session object ProfileDescription
-                                SessionHelper.SetObjectAsJson(HttpContext.Session, "ProfileDescription", lst);
-                                //Redirect In Area
-                                //return RedirectToAction("Index", "Pages", new { areaName = "BaggageMiss" });
-                                return RedirectToAction("Index", "Pages");
-
-                            }
-
-
-                        }
-
-                        if (model.Result == "99" && model.Message == "Not found")
-                        {
-
-                            // Save  Session PNR,FltNo,FltDate
-                            HttpContext.Session.SetString("PNR", model.PNR);
-                            HttpContext.Session.SetString("FltNo", model.FltNo);
-                            HttpContext.Session.SetString("FltDate", model.FltDate);
-                            //Redirect In Area
-                            //return RedirectToAction("Index", "Pages", new { areaName = "BaggageMiss" });
-                            return RedirectToAction("Index", "Pages");
-
-
-                        }
-                        else
-                        {
-                            //model.ErrorMessage = "Login fail.Your data input not be found!";
-                            model.ErrorMessage = pData["Message"].ToString();
-                        }
+                        //model.ErrorMessage = "Login fail.Your data input not be found!";
+                        model.ErrorMessage = pData["Message"].ToString();
                     }
-                    return View(model);
+                }
+                return View(model);
             }
             catch (Exception ex)
             {

@@ -157,6 +157,7 @@
   <ItemGroup>
     <PackageReference Include="Catel.MVVM" Version="5.12.11" />
     <PackageReference Include="DevExtreme.AspNet.Data" Version="2.8.2" />
+    <PackageReference Include="DeviceDetector.NET" Version="4.3.0" />
     <PackageReference Include="Fare" Version="2.1.2" />
     <PackageReference Include="FontAwesome" Version="4.7.0" />
     <PackageReference Include="Grpc.Core" Version="2.37.0" />
